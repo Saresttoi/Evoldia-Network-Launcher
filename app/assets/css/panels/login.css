@@ -1,6 +1,6 @@
 @import "./frame.css";
 body{
-    background: url("../../images/background/black-1.png");
+    background: url("../../images/background/background.png");
 }
 .login{
     position: absolute;
