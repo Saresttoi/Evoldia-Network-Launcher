@@ -7,7 +7,7 @@
   "main": "app/index.html",
   "author": "Luuxis",
   "window": {
-    "title": "Evoldia update",
+    "title": "Arche update",
     "width": 400,
     "height": 500,
     "frame": false,
